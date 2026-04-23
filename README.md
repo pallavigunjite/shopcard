@@ -55,6 +55,9 @@ git clone https://github.com/pallavigunjite/shopping-cart.git
 
 * Open `index.html` in your browser
 
+* <img width="943" height="451" alt="image" src="https://github.com/user-attachments/assets/a34b6f11-4208-4797-b832-6b923ec354be" />
+
+
 ---
 
 ## 💡 How It Works
